@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bottomsheet</string>
+    <string name="share_now">Share Now</string>
+    <string name="women_synthetic_lines_dress">Womens Synthetic Lines Dress</string>
+    <string name="free_delivery">Free Delivery</string>
+    <string name="u20b9_734">₹ 734</string>
+    <string name="add_to_favourites">Add to favourites</string>
+    <string name="share_product_via">Share Product Via..</string>
+    <string name="share">Share</string>
+    <string name="show_bottom_sheet_dialog">Show bottom sheet dialog</string>
+</resources>
